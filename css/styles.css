@@ -1,0 +1,65 @@
+/* 
+CB997E - medium pink orange
+DDBEA9 - light pink orange
+ffe8d6 - light yellow
+b7b7a4 - light green 
+a5a58d - less dark green
+3f473c - dark green
+3a3027 - green brown
+*/
+
+/*Global Styles
+--------------------*/
+body{
+    color: #3f473c;
+}
+img{
+    width: 300px;
+}
+a {
+    color: #3a3027;
+}
+a:hover {
+    text-decoration: none;
+}
+
+/*Profile
+--------------------*/
+header {
+    background: #ffe8d6;
+}
+
+/*Projects
+--------------------*/
+.projects {
+    background: #DDBEA9;
+}
+.projects a {
+    color: #3f473c;
+}
+.projects .btn {
+    color:#DDBEA9;
+    background:#3a3027;
+    text-decoration: none;
+    padding: 6px;
+    border-radius: 4px;
+}
+.projects .btn:hover {
+    background: rgba(58, 48, 39, 80%);
+}
+
+/*Work Experience
+--------------------*/
+.work-experience {
+    background: #b7b7a4;
+}
+
+/*Education
+--------------------*/
+
+
+/*Contact Info
+--------------------*/
+footer {
+    background: #a5a58d;
+}
